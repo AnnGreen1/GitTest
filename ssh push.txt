@@ -3,3 +3,16 @@
 只有用ssh克隆的仓库才需要输入密码
 
 密码是123456
+
+ssh
+ssh
+ssh
+ssh
+ssh
+ssh
+ssh
+ssh
+ssh
+ssh
+push
+push
